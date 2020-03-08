@@ -1,1 +1,1 @@
-# Software_Test
+# Software Testing, Lab 1
