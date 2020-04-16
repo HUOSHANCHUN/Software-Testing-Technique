@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="mujava.jar"/>
+	<classpathentry exported="true" kind="lib" path="openjava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MujavaHome/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MujavaHome/mujava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/MujavaHome/openjava.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Administrator/Desktop/MujavaHome/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
